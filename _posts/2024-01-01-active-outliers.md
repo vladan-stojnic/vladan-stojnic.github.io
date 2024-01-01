@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Training Ensembles With Inliers and Outliers for Semi-Supervised Active Learning"
-date:   2023-12-24 12:36:59 +00:00
+date:   2024-01-01 12:36:59 +00:00
 image: /images/active_outliers.png
 categories: research
 author: "Vladan Stojnić"
